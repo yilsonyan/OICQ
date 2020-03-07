@@ -22,4 +22,4 @@ A communication software based on JavaFx. 一款基于JavaFx的通讯软件。
 
 **代码界面**
 
-![代码界面](../../Desktop/代码界面.jpg)
+![代码界面](README.assets/代码界面.jpg)
